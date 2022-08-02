@@ -1,2 +1,2 @@
 # crud-operation
-convenient way for any organization to keep records of their students.
+convenient way for educational organization to keep records of their students.
